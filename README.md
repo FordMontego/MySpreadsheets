@@ -6,3 +6,6 @@ Checklist.xls		Create checklists for approprite code progression
 
 Run Tracker.xlsm	Enter number of each lap and duration of each period of running and walking.
 			Shows distance, total duration and speed along with a small analysis.
+
+ToDo.xls		ToDo list. Sequence controlled by a combination of the urgency, priority and
+			the time between now() and due date
