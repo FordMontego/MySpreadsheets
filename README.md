@@ -4,6 +4,9 @@ The idea for this is that I can control these templates (with sample Data) throu
 
 Checklist.xls		Create checklists for approprite code progression
 
+Log.xls			Track work performed. add a line with time and fill in details.
+			Manually maintain half day totals
+
 Run Tracker.xlsm	Enter number of each lap and duration of each period of running and walking.
 			Shows distance, total duration and speed along with a small analysis.
 
