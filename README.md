@@ -13,6 +13,8 @@ Run Tracker.xlsm	Enter number of each lap and duration of each period of running
 Task Track.xls		Track progress of projects. Identifiying percentant of work outstanding across
 			all active projects. Keeping historic data too.
 
+timesheet check.xls	Verify time allocated to WBS codes for a week to confirm bookings are correct
+
 ToDo.xls		ToDo list. Sequence controlled by a combination of the urgency, priority and
 			the time between now() and due date
 
